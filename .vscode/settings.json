@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/usr/share/java/javafx-controls.jar",
+        "/usr/share/java/javafx-base.jar",
+        "/usr/share/java/javafx-graphics.jar",
+        "/usr/share/java/libintl.jar"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JavaFX Launch",
+            "request": "launch",
+            "mainClass": "Movie",
+            "vmArgs": "--module-path /usr/share/java/javafx-controls.jar:/usr/share/java/javafx-graphics.jar:/usr/share/java/javafx-base.jar:/usr/share/java/javafx-fxml.jar --add-modules javafx.controls,javafx.fxml,javafx.graphics"
+        }
+    ]
+}
