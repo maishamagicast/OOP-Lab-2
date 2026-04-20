@@ -44,8 +44,8 @@ public class Movie extends Application {
 
         root.add(button2,1,4);
 
-        button1.setStyle("-fx-background-color: blue; -fx-text-fill: white; -fx-font-size:13pt;");
-        button2.setStyle("-fx-background-color: blue; -fx-text-fill: white; -fx-font-size:13pt;");
+        button1.setStyle("-fx-background-color: skyblue; -fx-text-fill: white; -fx-font-size:13pt;");
+        button2.setStyle("-fx-background-color: skyblue; -fx-text-fill: white; -fx-font-size:13pt;");
         
         text1.setStyle("-fx-font: normal bold 20px 'serif'");
         text2.setStyle("-fx-font: normal bold 20px 'serif'");
