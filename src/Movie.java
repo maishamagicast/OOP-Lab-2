@@ -52,13 +52,13 @@ public class Movie extends Application {
         text3.setStyle("-fx-font: normal bold 20px 'serif'");
         root.setStyle("-fx-background-color: WHITE");
 
-        // Label titleLabel= new Label("Movie Library System");
-        // root.add(titleLabel);
+        
 
         Scene scene=new Scene(root);
         stage.setTitle("Movie Library System");
         stage.setScene(scene);
         stage.show();
+
     }
 
     public static void main(String[] args) {
